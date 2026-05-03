@@ -128,5 +128,5 @@ The perspective is not academic. It is from someone who ran a company under ISO 
 
 No proprietary methods, products, or architectures are described in this document.
 
-Contact: aqdsintel@gmail.com
+Contact: aqds.intel@gmail.com
 Organisation: AQDS Intelligence
